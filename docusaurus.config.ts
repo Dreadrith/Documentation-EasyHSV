@@ -10,16 +10,16 @@ const config: Config = {
   favicon: 'img/icon.png',
 
   // Set the production url of your site here
-  url: 'https://dreadrith.com/',
+  url: 'https://dreadrith.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/Documentation-EasyHSV/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'dreadrith', // Usually your GitHub org/user name.
   projectName: 'Documentation-EasyHSV', // Usually your repo name.
-
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
