@@ -5,4 +5,4 @@ Click one of the links below!
 # [Check Out On Gumroad](https://dreadrith.gumroad.com/l/easyhsv)
 # [Watch Tutorial](https://www.youtube.com/watch?v=P3bzlqjDc4E)
 # [Watch In-Game Demo](https://www.youtube.com/watch?v=x51eX333EjU)
-# [Read Documentation](https://dreadrith.github.io/Dreadrith/Documentation-EasyHSV)  
+# [Read Documentation](https://dreadrith.github.io/Documentation-EasyHSV/)  
